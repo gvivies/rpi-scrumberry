@@ -8,7 +8,7 @@ Dockerfiles for Scrumberry components on Raspberry Pi
 You need to install Docker on your Raspberry Pi.
 See awesome stuff done by Resin.io [here](http://resin.io/blog/docker-on-raspberry-pi-in-4-simple-steps/)
 
-## Install project on your Raspbberry Pi
+## Install project on your Raspberry Pi
 
   Build each Docker images for MongoDB and Scrumberry containers :
   
@@ -19,7 +19,6 @@ See awesome stuff done by Resin.io [here](http://resin.io/blog/docker-on-raspber
   In scrumberry directory :
 
       $ docker build -t "<your.scrumberry.image.name>" .
-
   
   Then execute :
  
