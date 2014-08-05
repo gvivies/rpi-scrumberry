@@ -12,11 +12,11 @@ See awesome stuff done by Resin.io [here](http://resin.io/blog/docker-on-raspber
 
   Build each Docker images for MongoDB and Scrumberry containers :
   
-  * In mongodb directory :
+  In mongodb directory :
 
       $ docker build -t "<your.mongodb.image.name>" .
 
-  * In scrumberry directory :
+  In scrumberry directory :
 
       $ docker build -t "<your.scrumberry.image.name>" .
 
